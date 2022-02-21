@@ -1,0 +1,6 @@
+# This file will be read to create Items in TC
+# Syntax IemID,RevID,Name,Description|AttributeTitle=Attributevalue,AttributeTitle1=Attributevalue1,...
+# AttributeTitle must be present in TC form
+65874,1,TestName,TestDescription|attributeTitle=attributevalue,attributeTitle1=attributevalue1,attributeTitle2=attributevalue2
+69751,1,TestName1,TestDescription1|attributeTitle=attributevalue,attributeTitle1=attributevalue1,attributeTitle2=attributevalue2
+25874,1,TestName2,TestDescription2|attributeTitle=attributevalue,attributeTitle1=attributevalue1,attributeTitle2=attributevalue2  
