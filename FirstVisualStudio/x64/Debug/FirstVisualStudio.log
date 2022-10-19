@@ -1,0 +1,9 @@
+﻿  Program.c
+c:\users\stuff\desktop\lc\learnitk\firstvisualstudio\firstvisualstudio\program.c(59): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+  c:\users\stuff\desktop\lc\learnitk\firstvisualstudio\firstvisualstudio\program.c(59): note: consider using '%zd' in the format string
+c:\users\stuff\desktop\lc\learnitk\firstvisualstudio\firstvisualstudio\program.c(153): warning C4047: '=': 'tag_t *' differs in levels of indirection from 'tag_t'
+c:\users\stuff\desktop\lc\learnitk\firstvisualstudio\firstvisualstudio\program.c(164): warning C4047: 'function': 'tag_t' differs in levels of indirection from 'tag_t *'
+c:\users\stuff\desktop\lc\learnitk\firstvisualstudio\firstvisualstudio\program.c(164): warning C4024: 'WSOM_describe': different types for formal and actual parameter 1
+c:\users\stuff\desktop\lc\learnitk\firstvisualstudio\firstvisualstudio\program.c(101): warning C4715: 'processEachItem': not all control paths return a value
+c:\users\stuff\desktop\lc\learnitk\firstvisualstudio\firstvisualstudio\program.c(181): warning C4715: 'processEachRev': not all control paths return a value
+  FirstVisualStudio.vcxproj -> C:\Users\stuff\Desktop\LC\LearnITK\FirstVisualStudio\x64\Debug\FirstVisualStudio.exe
